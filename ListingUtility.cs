@@ -76,15 +76,14 @@ namespace ListingUtility
         public void AddListing(){
             int counter = Listing.GetCount();
             string a = "a";
-            bool b = false;
             listingList[counter] = new Listing("","","","","","");
+            while(a!="!"){
             System.Console.WriteLine("------------------------------------------------------------");
             System.Console.Write("Please enter all your Listing information below for the number ");
             System.Console.Write(counter);
             System.Console.WriteLine(" Listing.");
             System.Console.Write("Please enter ! when you are finished");
             System.Console.Write("\n");
-            while(a!="!"){
                 counter = Listing.GetCount();
                System.Console.WriteLine("Please enter the Listing ID");
                a = Console.ReadLine();
@@ -124,7 +123,6 @@ namespace ListingUtility
                 if(a == "!"){
                     break;
                 }
-                bool check = true;
                 while(!CheckTaken(a)){
                     System.Console.WriteLine("Im sorry that is not True or False");
                     System.Console.WriteLine("Please enter True if the File is Taken or False if it is free");

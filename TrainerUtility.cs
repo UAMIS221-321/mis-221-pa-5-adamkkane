@@ -61,7 +61,7 @@ namespace TrainerUtility
         }
 
         public void PrintFile(){
-            System.IO.StreamWriter file = new System.IO.StreamWriter("trainer.txt");
+            System.IO.StreamWriter file = new System.IO.StreamWriter("trainer.txt",true);
             for(int i = 0; i <= Trainer.GetCount(); i++){
                 string fileID = trainerList[i].GetTrainerID();
                 string fileName = trainerList[i].GetTrainerName();
