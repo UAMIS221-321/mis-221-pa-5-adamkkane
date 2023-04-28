@@ -1,0 +1,15 @@
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\bin\Debug\net7.0\mis-221-pa-5-adamkkane.exe
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\bin\Debug\net7.0\mis-221-pa-5-adamkkane.deps.json
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\bin\Debug\net7.0\mis-221-pa-5-adamkkane.runtimeconfig.json
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\bin\Debug\net7.0\mis-221-pa-5-adamkkane.dll
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\bin\Debug\net7.0\mis-221-pa-5-adamkkane.pdb
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.csproj.AssemblyReference.cache
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.AssemblyInfoInputs.cache
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.AssemblyInfo.cs
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.dll
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\refint\mis-221-pa-5-adamkkane.dll
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.pdb
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\mis-221-pa-5-adamkkane.genruntimeconfig.cache
+C:\Users\adamk\Documents\MIS CODES\mis-221-pa-5-adamkkane\obj\Debug\net7.0\ref\mis-221-pa-5-adamkkane.dll
